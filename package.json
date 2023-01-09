@@ -16,7 +16,7 @@
       "prettier --write ."
     ]
   },
-  "author": "Dr. Ahmad Jamal <ahmad@tulas.edu.in>",
+  "author": "Akash Patwal",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
